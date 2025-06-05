@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-first
-=======
-local change
->>>>>>> Stashed changes
-=======
-something has changed on extra
->>>>>>> Stashed changes
+overwrites
